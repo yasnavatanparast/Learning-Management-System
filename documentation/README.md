@@ -17,7 +17,7 @@
 | 010 | Development Guide | راهنمای توسعه و contribution | `/docs/10-development-guide.md` |
 | 011 | Testing Strategy | استراتژی تست و کیفیت | `/docs/11-testing-strategy.md` |
 | 012 | Deployment Guide | راهنمای deploy و انتشار | `/docs/12-deployment-guide.md` |
-| 013 | User case diagrams| نمودارهای سناریوی کاربری و فرایندهای کاری | /docs/13-user-scenarios-diagram.md`|
+| 013 | User case diagrams| نمودارهای سناریوی کاربری و فرایندهای کاری | /docs/13-user-scenarios-diagram.md` |
 
   
 
