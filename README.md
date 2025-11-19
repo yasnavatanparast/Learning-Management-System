@@ -1,28 +1,40 @@
 # Learning-Management-System
 
-##name & Student number:
+## name & Student number:
 yasna vatanparast
+
+
 03121174705031
 
 ## General description of the project:
-هدف، طراحی و پیاده‌سازی یک فرآیند آموزش الکترونیکی را به صورت دیجیتال مدیریت کند. این سیستم یک پلتفرم متمرکز برای تعامل استادان، دانشجویان و محتوای آموزشی فراهم می‌آورد.
+The goal is to digitally manage the design and implementation of an e-learning process. This system provides a centralized platform for interaction between instructors, students, and educational content.
+
+
 ## Project objectives:
-اهداف فنی و عملیاتی:اتوماسیون فرآیندهای آموزشی-بهبود دسترسی و انعطاف‌پذیری
-اهداف کاربر-محور:برای دانشجویان-برای اساتید
-اهداف مدیریتی:گزارش‌گیری و تحلیل-مقیاس‌پذیری و توسعه
+Technical and operational goals:
+Automate educational processes
+Improve accessibility and flexibility
+User-oriented goals:
+For students
+For faculty
+Management goals:
+Reporting and analysis
+Scalability and development
+
 ## Recommended technologies and tools:
-زبان برنامه نویسی:python
-فریم ورک پیشنهادی:django
-پایگاه داده:mysql
+Programming language: python
+Recommended framework: django
+Database: mysql
 
 ## Documentation:
-تحلیل نیازمندی ها:(docs/requirements.md)
-موارد کاربرد و سناریوها:(docs/use_cases.md)
-طراحی سیستم:(docs/architecture.md)
+Requirements Analysis: (docs/requirements.md)
+Use Cases and Scenarios: (docs/use_cases.md)
+System Design: (docs/architecture.md)
+
 ## Initial schedule:
-مرحله | توضیحات | بازه زمان بندی |
-فاز1  |تحلیل و نیازسنجی | هفته 4 تا 6 |
-فاز2 | طراحی سیستمم   | هفته 7 تا 9 |
-فاز3  | نمونه سازی اولیه | هفته 10 تا 13 |
+Referral of documents
+
 ## communication:
-در صورت نیاز به توضیحات بیشتر :yasnavatanparast8@gmail.com
+If you need further clarification:
+
+ yasnavatanparast8@gmail.com
