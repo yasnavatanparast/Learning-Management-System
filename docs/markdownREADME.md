@@ -1,9 +1,8 @@
 # Learning Management System  (LMS)
 
 ## The purpose of the project
-هدف از توسعه این نرم‌افزار، ایجاد یک **سیستم مدیریت آموزش (LMS) ساده، قدرتمند و آفلاین** برای محیط‌های آموزشی کوچک و متوسط (مانند مدارس، آموزشگاه‌های خصوصی یا دوره‌های داخلی شرکت‌ها) است.
-
-این پروژه قصد دارد با ارائه یک برنامه دسکتاپ، چالش‌های سیستم‌های تحت وب پیچیده و پرهزینه را برطرف کند و امکانات اصلی مدیریت دوره‌های آموزشی، دانش‌آموزان، محتوا و ارزیابی‌ها را در یک بستر متمرکز و کاربرپسند فراهم آورد.
+The goal of developing this software is to create a simple, powerful, and offline **Learning Management System (LMS)** for small and medium-sized educational environments (such as schools, private schools, or internal corporate courses).
+This project aims to address the challenges of complex and costly web-based systems by providing a desktop application and providing core capabilities for managing courses, students, content, and assessments in a centralized and user-friendly platform.
 
 ## How to run
 1. Install prerequisites:
@@ -21,5 +20,5 @@ npm install
 
    ## Documentation
 
-   - [فهرست مستندات](https://chatgpt.com/c/docs/README.md)
+   - [List of documents](https://chatgpt.com/c/docs/README.md)
    
